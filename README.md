@@ -1,4 +1,4 @@
-# Advintaller
+# Exather
 Advance Pyinstaller
 
 Usage:
