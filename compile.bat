@@ -1,0 +1,1 @@
+call pyinstaller main.py --onefile --add-data "software/myApp.exe;software/" --add-data "icon/app.ico;icon/" -i "icon/app.ico" --noconsole
